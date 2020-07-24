@@ -1,2 +1,2 @@
-# XamarinEntityFramework
-Xamarin.Forms with Entity Framework Core 
+# Xamarin using Entity Framework Core
+
